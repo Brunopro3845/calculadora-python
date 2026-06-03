@@ -1,4 +1,4 @@
-# Calculadora em Python 
+# Calculadora em Python (CLI)
 
 Projeto simples em Python que realiza operações matemáticas básicas via terminal.
 
