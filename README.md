@@ -1,13 +1,23 @@
-# simple-python-calculator 
+# Gerador de Senhas Seguras 
 
-Meu primeiro projeto em Python para praticar lógica de programação.
+Projeto em Python que gera senhas aleatórias com tamanho definido pelo usuário.
 
-## O que aprendi
-- Criar funções usando `def`
-- Usar condicionais (`if / elif / else`)
-- Usar `input()` para receber dados do usuário
-- Tratar erro de divisão por zero
+---
 
-## Como executar
+##  Funcionalidades
+- Geração de senhas aleatórias
+- Definição de tamanho pelo usuário
+- Uso de letras, números e símbolos
+
+---
+
+##  Tecnologias
+- Python
+- random
+- string
+
+---
+
+##  Como executar
 ```bash
-python calculadora.py
+python main.py
