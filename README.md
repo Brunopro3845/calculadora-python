@@ -1,4 +1,4 @@
-# calculadora-python
+# simple-python-calculator
 Meu primeiro projeto em python para treinar lógica de programação.
 
 o que aprendi:
