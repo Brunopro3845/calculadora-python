@@ -1,23 +1,26 @@
-# Gerador de Senhas Seguras 
+# Calculadora em Python 
 
-Projeto em Python que gera senhas aleatórias com tamanho definido pelo usuário.
+Projeto simples em Python que realiza operações matemáticas básicas via terminal.
 
 ---
 
 ##  Funcionalidades
-- Geração de senhas aleatórias
-- Definição de tamanho pelo usuário
-- Uso de letras, números e símbolos
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Tratamento de divisão por zero
+- Interface simples via terminal (CLI)
 
 ---
 
 ##  Tecnologias
 - Python
-- random
-- string
 
 ---
 
 ##  Como executar
+
+Clone o repositório:
 ```bash
-python main.py
+git clone <link-do-repositorio>
