@@ -6,7 +6,7 @@ Uma calculadora desenvolvida em Python para realizar operações matemáticas di
 
 Este projeto foi criado com o objetivo de praticar conceitos fundamentais de programação em Python, incluindo funções, estruturas condicionais, tratamento de exceções e interação com o usuário por meio do terminal.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 * ✅ Soma
 * ✅ Subtração
