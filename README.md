@@ -37,13 +37,13 @@ Este projeto foi criado com o objetivo de praticar conceitos fundamentais de pro
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Brunopro3845/NOME_DO_REPOSITORIO.git
+git clone https://github.com/Brunopro3845/calculadora-python.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd NOME_DO_REPOSITORIO
+cd calculadora-python
 ```
 
 ### 3. Execute o programa
